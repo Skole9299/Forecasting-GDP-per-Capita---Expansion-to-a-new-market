@@ -1,7 +1,7 @@
 # Forecasting GDP per Capita - Expansion to a new market
 GDP per Capita forecasting to determine the best market to expand the business
 
-##Projects details
+## Projects details
 Our client, one of the top 20 European retailers, is doing business in 9 European countries and currently is considering expanding their business to a new market. They are considering the following countries:
 - Croatia
 - Romania
